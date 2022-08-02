@@ -1,0 +1,11 @@
+[
+  {"results":  [
+    {"name":  "uniform interface", "id":  1, "date": "01/08/2022"},
+    {"name":  "client/server", "id":  2, "date": "01/08/2022"},
+    {"name":  "stateless", "id":  3, "date": "01/08/2022"},
+    {"name":  "cacheble", "id":  4, "date": "01/08/2022"},
+    {"name":  "layered system", "id":  5, "date": "01/08/2022"},
+    {"name":  "code on demand", "id":  6, "date": "01/08/2022"}
+  ]}
+
+]
